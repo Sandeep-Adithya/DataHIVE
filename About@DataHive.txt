@@ -1,0 +1,3 @@
+Since learning institutions have busy schedules, DataHIVE helps them to perform this very important task with a little amount of time.
+
+DataHIVE is one of the best open-source school management software built on python programming language.
