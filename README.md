@@ -1,4 +1,4 @@
 # DataHIVE School Management Software
 
-UI Framework: Tkinter
-Database: MySQL
+- UI Framework: Tkinter
+- Database: MySQL
